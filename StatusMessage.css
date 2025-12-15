@@ -1,0 +1,23 @@
+.status-message {
+  text-align: center;
+  margin: 15px 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #444;
+}
+
+.status-message.active {
+  color: rgb(155, 155, 236);
+}
+
+.status-message.win {
+  color: yellow;
+}
+
+.status-message.loss {
+  color: crimson;
+}
+
+.status-message.draw {
+  color: goldenrod;
+}

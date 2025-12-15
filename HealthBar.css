@@ -1,0 +1,19 @@
+.healthbar {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+  padding: 10px;
+  border: 2px solid #4121f3;
+  border-radius: 8px;
+}
+
+.player-health {
+color: rgb(91, 232, 91);
+}
+
+
+.enemy-health {
+  text-align: center;
+  color: rgb(244, 35, 35); 
+}
+
